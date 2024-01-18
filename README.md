@@ -8,7 +8,7 @@
 
 ## Tools to benchmark
 
-- Apache Bench
+- Apache Bench (**ab**)
 
 ####  Blog: https://kunalsin9h.com/blog/get-bench
 
